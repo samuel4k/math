@@ -35,7 +35,7 @@ Made with by ❤️ [@ZauteKm](https://t.me/ZauteKm/604)
 START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('🔥 Source Code', url='https://github.com/ZauteKm/Calculator-Bot'),
-        InlineKeyboardButton ('Channel 📢', url='https://t.me/tgbotsProject/152')
+        InlineKeyboardButton('Channel 📢', url='https://t.me/tgbotsProject/152')
         ]]
     )
 CALCULATE_TEXT = "▷ Made with by @ZauteKm"
