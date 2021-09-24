@@ -26,15 +26,15 @@ Bot = Client(
 
 
 START_TEXT = """
-Hello {}, I am a Simple Telegram [Calculator-Bot](https://Github.com/ZauteKm/Calculator-Bot).
+Hello {}, I am Telegram [Calculator-Bot](https://Github.com/ZauteKm/Calculator-Bot).
 
 ▷ Send me /calculator and See my Magic.
 
-Made with by ❤️ @ZauteKm
+Made with by ❤️ [@ZauteKm](https://t.me/ZauteKm/604)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🔥 Join Channel 📢', url='https://telegram.me/TGBotsProJect')
+        InlineKeyboardButton('🔥 Join Channel 📢', url='https://t.me/tgbotsProject/152')
         ]]
     )
 CALCULATE_TEXT = "▷ Made with by @ZauteKm"
