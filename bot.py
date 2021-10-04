@@ -32,12 +32,12 @@ Hello {},
 
 ▷ Send me /calculator and See my Magic.
 
-Made with by ❤️ [Prachi](https://t.me/MikuNakno04)
+Made with by ❤️ [Prachi](https://t.me/MikuNakano04)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('⚙️ Support ⚙️', url='https://t.me/sukuna_support'),
-        InlineKeyboardButton('Plexus', url='https://t.me/tgbotsProject/152')
+        InlineKeyboardButton('🎗 Plexus 🎗', url='https://t.me/anime_plexus_chat')
         ]]
     )
 CALCULATE_TEXT = "▷ Made with by @ZauteKm"
