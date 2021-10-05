@@ -40,7 +40,7 @@ START_BUTTONS = InlineKeyboardMarkup(
         InlineKeyboardButton('🎗 Plexus 🎗', url='https://t.me/anime_plexus_chat')
         ]]
     )
-CALCULATE_TEXT = "▷ Made with by @ZauteKm"
+CALCULATE_TEXT = "▷ Answer by @MikuNakano04 "
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton("DEL", callback_data="DEL"),
